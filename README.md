@@ -15,4 +15,4 @@
 
 ## Summary of Analysis:
 #### The accuracy score of the resampled data (99%) is higher than the accuracy score of the original data (95%). Both the models have similar precission scores but the Logistic Regression Model with Resampled Training Data i.e., Model 2 has a higher recall rate (99%) as compared to Model 1 (91%). 
-#### In conclusion, it will not be wrong to say that Model 2 is a way better model than Model 1 i.e., the Logistic Regression Model with the Original Data.
+#### In conclusion, it will not be wrong to say that Model 2 i.e., the Logistic Regression Model with Resampled Training Data is a way better model than Model 1 i.e., the Logistic Regression Model with the Original Data.
